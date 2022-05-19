@@ -1,0 +1,16 @@
+.header-box {
+    width: 960px;
+    max-width: 100%;
+    padding: 20px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.header-links {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
