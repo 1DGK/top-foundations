@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 
 .header-box {
@@ -13,7 +14,6 @@ body {
     background-color: #1f2937;
     font-size: 24px;
     color: #f9faf8;
-    font-family: 'Roboto', sans-serif;
 }
 
 .header {
@@ -37,5 +37,4 @@ body {
     background-color: #1f2937;
     font-size: 24px;
     color: #f9faf8;
-    font-family: 'Roboto', sans-serif;
 }
