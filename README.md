@@ -19,3 +19,5 @@ Hero text is the statement that appears at the top of a web page.
 "Our suggestion: take it one section at a time. The website you’re creating has 4 main sections (and a footer), so pick one and get it into pretty good shape before moving on. Starting at the top is always a solid plan."
 
 "...do the HTML and then do the CSS."
+
+Photo by Miriam Espacio from Pexels: https://www.pexels.com/photo/blue-and-brown-milky-way-galaxy-2694037/
