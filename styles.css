@@ -66,3 +66,11 @@ img {
     border-radius: 25px;
 
 }
+
+.random-info {
+    display: flex;
+    font-size: 36px;
+    font-weight: 800;
+    justify-content: center;
+    padding: 30px;
+}
