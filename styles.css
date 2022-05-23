@@ -53,3 +53,16 @@ img {
     height: auto;
     width: 600px;
 }
+
+.button {
+    display: flex;
+    background-color: #3882f6;
+    font-weight: bold;
+    max-width: 150px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 25px;
+
+}
