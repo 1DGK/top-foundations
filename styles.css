@@ -77,8 +77,23 @@ img {
 
 .square-container {
     display: flex;
+    justify-content: center;
 }
 
 .square-one, .square-two, .square-three, .square-four {
+    display: flex;
     padding: 20px;
+    text-align: center;
+    flex-direction: column;
+    width: 100px;
+}
+
+.square {
+    border-color: #3882F6;
+    border-style:solid;
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+    align-self: center;
+    justify-self: center;
 }
