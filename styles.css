@@ -149,6 +149,17 @@ img {
     align-items: center;
     border-radius: 10px;
     border-style: solid;
-
-
 }
+
+.footer {
+    display: flex;
+    background-color: #1f2937;
+    color: white;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+  }
