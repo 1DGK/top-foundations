@@ -119,3 +119,17 @@ img {
     font-weight: bold;
     color: #1f2937;
 }
+
+.signup-box {
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-center {
+    min-height: 150px;
+    min-width: 600px;
+    background-color: #3882f6;
+    border-radius: 2%;
+}
