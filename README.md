@@ -21,3 +21,5 @@ Hero text is the statement that appears at the top of a web page.
 "...do the HTML and then do the CSS."
 
 Photo by Miriam Espacio from Pexels: https://www.pexels.com/photo/blue-and-brown-milky-way-galaxy-2694037/
+
+NOTE: Drop the "/" in front of img link. Otherwise, Github Pages won't link to img properly. E.g., src="img/pexels-miriam.jpg"
